@@ -1,0 +1,26 @@
+Location,Destination,Weight
+Memorial Library,Red Gym,1
+Red Gym,Memorial Union,1
+Memorial Union,College Library,3
+Memorial Library,University Book Store,2
+College Library,Helen C. White Hall,1
+Helen C. White Hall,School of Education,2
+Memorial Union,George L Mosse Humanities Building,3
+George L Mosse Humanities Building,School of Business,6
+University Book Store,Fresh Madison Market,4
+Fresh Madison Market,George L Mosse Humanities Building,5
+School of Education,Bascom Hall,2
+Bascom Hall,Van Vleck Hall,1
+Bascom Hall,Mark H. Ingraham Hall,2
+Van Vleck Hall,Sterling Hall,4
+Van Vleck Hall,Mark H. Ingraham Hall,3
+Mark H.Ingraham Hall,Van Hise Hall,2
+Van Hise Hall,Sterling Hall,1
+Sterling Hall,Chamberlin Hall,1
+Van Vleck Hall,UW Law School,3
+UW Law School,School of Education,6
+UW Law School,George L Mosse Humanities Building,2
+Chamberlin Hall,Chemistry Building,3
+Chemistry Building,School of Business,2
+Chamberlin Hall,UW Law School,5
+
